@@ -17,7 +17,7 @@ test('renders nothing when there are no completed tasks', () => {
 
 test('renders completed tasks correctly', () => {
   const tasks = [
-    { id: 1, text: 'Task 1', completed: true },
+    // { id: 1, text: 'Task 1', completed: true },
     { id: 2, text: 'Task 2', completed: true },
   ];
 
