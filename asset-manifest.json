@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dev-cloud-git/static/css/main.e6c13ad2.css",
+    "main.js": "/dev-cloud-git/static/js/main.53a0bdd8.js",
+    "static/js/787.e12b768a.chunk.js": "/dev-cloud-git/static/js/787.e12b768a.chunk.js",
+    "index.html": "/dev-cloud-git/index.html",
+    "main.e6c13ad2.css.map": "/dev-cloud-git/static/css/main.e6c13ad2.css.map",
+    "main.53a0bdd8.js.map": "/dev-cloud-git/static/js/main.53a0bdd8.js.map",
+    "787.e12b768a.chunk.js.map": "/dev-cloud-git/static/js/787.e12b768a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.53a0bdd8.js"
+  ]
+}
