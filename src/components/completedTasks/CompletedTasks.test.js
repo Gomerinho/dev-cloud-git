@@ -10,6 +10,7 @@ test('renders nothing when there are no completed tasks', () => {
       <CompletedTasks />
     </TasksContext.Provider>
   );
+  console.log(screen.getByText('Tâches terminées'));
   expect(screen.getByText('Tâches terminées')).toBeInTheDocument();
   expect(screen.getByRole('list')).toBeEmptyDOMElement();
 });
