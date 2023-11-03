@@ -1,8 +1,8 @@
 {
   "name": "dev-cloud-git",
-  "homepage": "https://gomerinho.github.io/dev-cloud-git/",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gomerinho.github.io/dev-cloud-git/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
