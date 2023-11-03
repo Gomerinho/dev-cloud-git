@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -u github-actions-bot <support+actions@github.com>",
     "test": "react-scripts test --detectOpenHandles",
     "eject": "react-scripts eject"
   },
